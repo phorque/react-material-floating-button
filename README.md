@@ -1,26 +1,17 @@
-# React Material Floating Button
+# React Material Floating Button using Google Icon
 
+Based on: https://github.com/nobitagit/react-material-floating-button
 
-Material design floating action button implemented as a React component.
+How to Use:
+1. npm install react-mfb-google-icons
+2. Add Google's Material Icons Font into your HTML file
+3. Enjoy!
 
-Made to be fast and easy to customize.
-~~Shamelessly~~ inspired by action buttons from Google Inbox, Evernote and Path.
+<img src="http://i.giphy.com/3o7WTxqhCmZfoOgkjS.gif" />
 
-Clone/download the repo from Github or just use npm:
-```
-npm install react-mfb --save
-```
-
-Docs are still to come (but hopefully will be there soon).
-In the meantime if you want to play with it check the project homepage source code for hints on how to use the component.
-
-## Demo
-See the [project page](http://nobitagit.github.io/react-material-floating-button/) or just look at this awesome gif:
-
-<img src="http://zippy.gfycat.com/LimitedTatteredFieldmouse.gif">
-
-**Other versions**
-- [Vanilla html](https://github.com/nobitagit/material-floating-button) (original, upstream version of the component)
-- [Angular directive](https://github.com/nobitagit/ng-material-floating-button)
-
-Demo icons courtesy of [Ionicons](http://ionicons.com)
+Demo:
+1. Clone this repository
+2. cd demo
+3. npm install
+4. npm start
+5. Open localhost:3000

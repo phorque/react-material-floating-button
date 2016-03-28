@@ -94,8 +94,8 @@ $label-hover-on: .3s !default;
 
 // main button diameter
 $main_button_size: 56px !default;
-// main button diameter
-$child_button_size: 56px !default;
+// child button diameter
+$child_button_size: 40px !default;
 // the distance of the main button from the closest corners of the screen
 $border-distance: 25px !default;
 // font-size for labels
@@ -277,7 +277,7 @@ $number-of-child-buttons: 4 !default;
 .mfb-component__child-icon{
   @extend .mfb-component__icon;
   line-height: $child_button_size;
-  font-size: 18 / 56 * $child_button_size;
+  font-size: 18;
 }
 .mfb-component__main-icon--active{
   opacity: 0;

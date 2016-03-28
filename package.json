@@ -1,10 +1,10 @@
 {
-  "name": "react-mfb",
-  "version": "0.3.0",
-  "description": "React component for a material menu à la Google Inbox and Evernote",
-  "author": "Nobita",
+  "name": "react-mfb-google-icons",
+  "version": "0.1.0",
+  "description": "React component for a material floating button (Like seen on: Inbox, Evernote)",
+  "author": "Adrian Hartanto",
   "contributors": [],
-  "repository": "nobitagit/react-material-floating-button",
+  "repository": "adrianha/react-material-floating-button",
   "license": "MIT",
   "engines": {
     "node": ">= 0.10"
@@ -27,7 +27,7 @@
     "classnames": "^1.2.0"
   },
   "peerDependencies": {
-    "react": "^0.13.0"
+    "react": "~0.13.0"
   },
   "devDependencies": {
     "browserify": "^9.0.3",
