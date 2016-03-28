@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import ReactMFB from 'react-mfb-google-icon';
+import ReactMFB from 'react-mfb-google-icons';
 
-require('react-mfb-google-icon/mfb.css');
+require('react-mfb-google-icons/mfb.css');
 
 class ReactMFBDemo extends React.Component {
 	render() {
