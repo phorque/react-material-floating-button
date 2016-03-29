@@ -2,6 +2,10 @@
 
 Based on: https://github.com/nobitagit/react-material-floating-button
 
+### Features:
+  - Using Google's Material Icons
+  - Smaller child button
+
 ### How to Use:
   - npm install react-mfb-google-icons
   - Add Google's Material Icons Font into your HTML file
